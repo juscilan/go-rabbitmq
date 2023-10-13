@@ -1,0 +1,5 @@
+/data/
+/log/
+/mnesia/
+/rabbitmq/
+/rabbitmq_data/
